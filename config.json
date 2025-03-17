@@ -4,7 +4,7 @@
   "patch": {
     "number": 1,
     "hash": "e647d0399cdbbd26cc4b9e35fcd144e198d36e2e478dd9d69e27b361bb0d754e",
-    "download_url": "https://raw.githubusercontent.com/huy2368/test-code-push/refs/heads/develop/dlc.vmcode"
+    "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/patch/dlc.vmcode"
   },
   "rolled_back_patch_numbers": []
 }
