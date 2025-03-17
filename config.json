@@ -3,7 +3,7 @@
   "patch_available": true,
   "patch": {
     "number": 1,
-    "hash": "ce722780e5748cacafda717e04c1baa311ff4858c0d4099e13305650ca02f55b",
+    "hash": "c1a82319836799e85feb1d6855a1198fcd4d806d4d366761d1ce7dbd00f04b62",
     "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/patch/dlc.vmcode"
   },
   "rolled_back_patch_numbers": []
