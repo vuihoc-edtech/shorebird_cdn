@@ -1,1 +1,1 @@
-{"message": "ok", "patch_available": true,"patch": { "number": 1, "hash": "$hash","download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/patch/dlc.vmcode"}, "rolled_back_patch_numbers": []}
+{"message": "ok", "patch_available": true, "patch": { "number": 1, "hash": "2cdb239fc6e338430f827d916804e7a8e4458f2747d5986727315fcaf3c92b03", "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/patch/dlc.vmcode"}, "rolled_back_patch_numbers": []}
