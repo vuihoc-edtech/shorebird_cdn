@@ -1,1 +1,10 @@
-{"message": "ok", "patch_available": true, "patch": { "number": 1, "hash": "f59df8aa03cc4b25ab77b37e8f688bda93a402cfd0dfcf6f65d7e0c53462f4b5", "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/android/x86_64/dlc.vmcode"}, "rolled_back_patch_numbers": []}
+{
+  "message": "ok",
+  "patch_available": true,
+  "patch": {
+    "number": 2,
+    "hash": "1fa94761c7f693df03c80f990b333c76071c35892e9c5b80e97600e69df96875",
+    "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/android/x86_64/dlc.vmcode"
+  },
+  "rolled_back_patch_numbers": []
+}
