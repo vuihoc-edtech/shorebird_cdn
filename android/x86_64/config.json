@@ -1,0 +1,1 @@
+{"message": "ok", "patch_available": true, "patch": { "number": 1, "hash": "c661f0aac0a1c783d98b345272e3faf4e02abf040eca007767eb0d37b758362c", "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/android/x86_64/dlc.vmcode"}, "rolled_back_patch_numbers": []}
