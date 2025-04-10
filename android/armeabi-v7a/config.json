@@ -2,8 +2,8 @@
   "message": "ok",
   "patch_available": true,
   "patch": {
-    "number": 2,
-    "hash": "663d13eb46722cff4743b0d094a1fdb1ad35667f4d24ad1fbdb11eedeb43beb9",
+    "number": 3,
+    "hash": "792336789bc68ec4f58c8f73d75221ce559399cf3907afe037e2d2fe1d3025d2",
     "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/android/armeabi-v7a/dlc.vmcode"
   },
   "rolled_back_patch_numbers": []
