@@ -2,8 +2,8 @@
   "message": "ok",
   "patch_available": true,
   "patch": {
-    "number": 5,
-    "hash": "66e2f0df9f72c07c7db581cd8eeabdc544d4ac78065ef235b2848cc529bfb9a0",
+    "number": 6,
+    "hash": "36f42685c12962f38e43ee3e5d26814e7295835cdf32aa72a7f03a06f4553527",
     "download_url": "https://github.com/vuihoc-edtech/shorebird_cdn/raw/refs/heads/main/ios/dlc.vmcode"
   },
   "rolled_back_patch_numbers": []
